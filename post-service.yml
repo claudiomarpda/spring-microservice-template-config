@@ -1,0 +1,6 @@
+app:
+  myProperty: "my value for prod"
+
+logging:
+  level:
+    org.example.cardservice: WARN
