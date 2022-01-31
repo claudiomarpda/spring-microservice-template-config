@@ -1,0 +1,6 @@
+app:
+  myProperty: "my timeline value for dev"
+
+logging:
+  level:
+    org.example.cardservice: INFO
