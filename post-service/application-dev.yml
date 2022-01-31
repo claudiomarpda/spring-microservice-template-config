@@ -1,0 +1,6 @@
+app:
+  myProperty: "my post value for dev"
+
+logging:
+  level:
+    org.example.cardservice: INFO
