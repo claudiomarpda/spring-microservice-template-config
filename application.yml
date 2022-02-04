@@ -4,4 +4,5 @@ management:
       exposure:
         include: "*"
 
-my-key: my app default value
+app:
+  myProperty: "my default value for local"

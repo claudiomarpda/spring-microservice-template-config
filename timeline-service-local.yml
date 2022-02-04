@@ -1,5 +1,5 @@
 app:
-  myProperty: "my timeline value for dev"
+  myProperty: "my timeline value for local"
 
 logging:
   level:

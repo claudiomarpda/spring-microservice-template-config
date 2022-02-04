@@ -1,5 +1,5 @@
 app:
-  myProperty: "my post value for prod"
+  myProperty: "my post value for local"
 
 logging:
   level:
