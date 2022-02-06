@@ -1,6 +1,2 @@
 app:
   myProperty: "my timeline value for local"
-
-logging:
-  level:
-    org.example.cardservice: INFO

@@ -1,6 +1,2 @@
 app:
   myProperty: "my post value for local"
-
-logging:
-  level:
-    org.example.cardservice: WARN
