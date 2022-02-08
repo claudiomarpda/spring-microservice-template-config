@@ -1,2 +1,9 @@
 app:
   myProperty: "my post value for local"
+
+test: "test"
+
+spring:
+  zipkin:
+    baseUrl: http://localhost:9411/
+    enabled: true
