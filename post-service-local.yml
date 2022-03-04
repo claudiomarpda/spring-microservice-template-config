@@ -1,2 +1,4 @@
 app:
   myProperty: "my post value for local"
+
+my-secret: {cipher}283da0d71aedb7c0ae993e77bdbcda1c777582feacb42a8eedacfca1d263e51
